@@ -6,7 +6,7 @@ Best Fit, Worst Fit, and Next Fit.
 The main purpose of this project is to understand how different allocation algorithms
 affect memory fragmentation and allocation performance through simple experiments.
 
----
+--- 
 
 ## Experiments 
 This project includes the following experiments:
@@ -16,6 +16,8 @@ This project includes the following experiments:
 
 The results are shown in the terminal for a summary of its outcome.
 Tested with Python 3.10.
+
+---
 
 ## Project Structure
 
