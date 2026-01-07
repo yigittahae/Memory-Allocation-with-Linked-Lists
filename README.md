@@ -8,6 +8,15 @@ affect memory fragmentation and allocation performance through simple experiment
 
 ---
 
+## Experiments 
+This project includes the following experiments:
+1. Allocation Tracking (first 15 allocation outputs)
+2. Speed ​​Test (time comparison)
+3. Fragmentation Test (post-release block analysis)
+
+The results are shown in the terminal for a summary of its outcome.
+Tested with Python 3.10.
+
 ## Project Structure
 
 This project is kept simple and consists of only two files:
